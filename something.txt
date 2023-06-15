@@ -1,0 +1,33 @@
+What is HTML?
+  The structure of your website. aka skeleton
+
+CTRL + / = comment out a line for HTML
+
+Basic Structure:
+  <html>
+    <head>
+      <title></title>
+    </head>
+    <body></body>
+  </html>
+
+<html></html> = the parent of head and body
+<head></head> = things you don't want displayed on webpage
+<title></title> = shows up in the tab
+<body></body> = things you want displayed on the webpage
+<nav></nav> = a bar on top usually for links
+<a></a> = used for links
+<h1></h1> = header on the webpage. biggest
+<h6></h6> = smallest
+<div></div> = just a divider to section things out. slowly being phased out
+<section></section> = slightly more descriptive than div
+<p></p> = a paragraph
+<ul></ul> = unordered list
+<ol></ol> = ordered list
+<li></li> = thing on the list
+<img alt="" src=""/> = for images
+
+href="" = for links
+target="_blank" = open link in new tab
+src="" = put the source of image there
+alt="" = description for the image. usually for blind people
